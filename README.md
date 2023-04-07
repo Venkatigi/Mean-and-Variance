@@ -10,7 +10,7 @@ To find mean and variance of arrival of objects from the feeder using probabilit
 
 Python and Visual components tool
 
-# Theory:
+# Theory :
 
 The expectation or the mean of a discrete random variable is a weighted average of all possible
 values of the random variable. The weights are the probabilities associated with the corresponding values. 
@@ -46,7 +46,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Experiment :
 ![image](https://user-images.githubusercontent.com/75260837/196338183-2dc628b1-70fc-43b0-8219-1c6441f92a74.png)
 
-# Program
+# Program :
 ```python
 import numpy as np
 L=[int(i) for i in input().split()]
